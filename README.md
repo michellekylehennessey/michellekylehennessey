@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://raw.githubusercontent.com/michellekylehennessey/michellekylehennessey/main/banner.png" width="100%" alt="Michelle banner"
+<img src="https://raw.githubusercontent.com/michellekylehennessey/michellekylehennessey/main/banner.png" width="100%" alt="Michelle banner">
 
 ---
 
