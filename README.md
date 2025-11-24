@@ -19,7 +19,7 @@ I love exploring new languages and tools that bridge creativity, structure, and 
 ---
 
 ### ⚙️ Tools & Technologies
-`Python` · `SQL` · `Power BI` · `Rust` · `OpenSCAD` · `Git` · `VS Code`
+`Python` · `SQL` · `Power BI` · `Rust` · `OpenSCAD` · `Git` · `VS Code` · `HTML`· `JS`
 
 ---
 
