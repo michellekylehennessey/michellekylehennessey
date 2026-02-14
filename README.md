@@ -4,7 +4,7 @@
 ---
 
 ### 🐀 Hi, I’m Michelle  
-💡 **Data Analyst | Code Enthusiast | Lifelong Learner**
+💡 **Data Scientist | Code Enthusiast | Lifelong Learner**
 
 ---
 
