@@ -30,7 +30,7 @@ I love exploring new languages and tools that bridge creativity, structure, and 
 ---
 
 ### 🐁 Fun Fact
-When I’m not coding, I’m **building my Rat Army** — **one silver fawn at a time.**  
+When I’m not coding, I’m **building my Rat Army****one silver fawn at a time.**  
 
 ---
 
